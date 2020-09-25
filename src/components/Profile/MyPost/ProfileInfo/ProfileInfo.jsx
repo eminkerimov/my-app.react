@@ -9,7 +9,7 @@ const ProfileInfo = () => {
         <img src="https://www.tutorialspoint.com/general_knowledge/images/diameter_of_earth.jpg" alt="pct"/>
       </div>
       <div className={c.descriptionBlock}>Ava +description</div>
-      </div>
+    </div>
   )
 }
 
